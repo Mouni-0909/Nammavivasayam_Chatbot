@@ -1,0 +1,31 @@
+
+Scheme: Kalaignarin All Village Integrated Agricultural Development Programme (KAVIADP)
+Department: Tamil Nadu Department of Agriculture and Farmers Welfare
+Description: A Tamil Nadu government programme for integrated agricultural development in selected village panchayats. It aims to bring fallow lands into cultivation, improve irrigation facilities, increase agricultural production, and develop water resources.
+Beneficiaries: Farmers in selected villages of Tamil Nadu, Registered farmer cluster groups, Scheduled Caste farmers, Scheduled Tribe farmers
+Benefits: Community irrigation water sources, Solar or electric powered pumpsets, Water conveyance pipes, Farm ponds, Rehabilitation of water storage structures, Water source creation with 100% subsidy for eligible SC/ST farmers
+Eligibility: Implementation is in villages selected under the Anaithu Grama Anna Marumalarchi Thittam, Scheme coverage excludes Chennai, Individual benefits depend on the relevant scheme component and beneficiary category
+Documents: Specific document requirements must be confirmed with the local Agriculture Department
+Source URL: https://tnagriculture.in/common_portal/assets/uploads/desk/agri_e_cc_2023_24_compressed.pdf
+
+---
+
+Scheme: Micro Irrigation Scheme under Per Drop More Crop (PMKSY-PDMC)
+Department: Tamil Nadu Department of Horticulture and Plantation Crops
+Description: A government-supported micro irrigation programme encouraging drip and sprinkler irrigation for suitable horticultural and agricultural crops to improve water-use efficiency.
+Beneficiaries: Small farmers, Marginal farmers, Other eligible farmers
+Benefits: 100% subsidy for small and marginal farmers subject to a maximum of 2 hectares per beneficiary, 75% subsidy for other farmers subject to a maximum of 5 hectares per beneficiary, Drip irrigation systems, Sprinkler irrigation systems
+Eligibility: Farmers in Tamil Nadu districts except Chennai, Farmers must own or share a water source with pumping facilities, Landowners or farmers with qualifying registered lease documents for a period of 7 years
+Documents: Registered lease documents where applicable, Other required documents must be confirmed with the Horticulture Department
+Source URL: https://www.tnhorticulture.tn.gov.in/site_assets/site-pdfs/citizen_charter/Citizen-Charter-DHPC-English.pdf
+
+---
+
+Scheme: Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)
+Department: Government of India - Ministry of Agriculture and Farmers Welfare
+Description: A central government income-support scheme for eligible landholding farmer families across India, including Tamil Nadu. Financial assistance is transferred directly into beneficiaries' bank accounts.
+Beneficiaries: Eligible landholding farmer families
+Benefits: Rs. 6000 per year, Three instalments of Rs. 2000 each, Direct Benefit Transfer to eligible beneficiaries' bank accounts
+Eligibility: Landholding farmer families with cultivable land registered in their names, Subject to government exclusion criteria, Institutional landholders are excluded, Certain higher-income and other excluded categories are not eligible, eKYC is mandatory for registered beneficiaries
+Documents: Aadhaar details for official verification, Bank account details, Landholding records as applicable, Additional requirements must be verified on the official PM-KISAN portal
+Source URL: https://pmkisan.gov.in/

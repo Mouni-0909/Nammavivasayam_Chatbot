@@ -1,0 +1,35 @@
+
+# API keys and Neo4j credentials
+.env
+.env.*
+
+# Python virtual environments
+venv/
+newvenv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+# Streamlit configuration and secrets
+.streamlit/secrets.toml
+
+# Local database and vector index files
+faiss_index/
+multi_pdf_faiss_index/
+*.db
+*.sqlite3
+
+# Operating system files
+.DS_Store
+Thumbs.db
